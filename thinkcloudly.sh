@@ -1,0 +1,3 @@
+adc
+deg
+beg
